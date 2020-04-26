@@ -7,3 +7,7 @@ int main(void){
     
     return 0;
 }
+
+int read_column_numbers(int columns, int max){
+    return 0;
+}
